@@ -1,0 +1,3 @@
+[submodule "arc-c"]
+	path = arc-c
+	url = https://github.com/Domin-Benny/Church-Site.git
